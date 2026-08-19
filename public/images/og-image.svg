@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g-873992710" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f43f5e" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g-873992710)" />
+  <circle cx="983.9999999999999" cy="113.39999999999999" r="138.6" fill="rgba(255,255,255,0.12)" />
+  <circle cx="144" cy="554.4" r="176.4" fill="rgba(0,0,0,0.1)" />
+  <text x="50%" y="52%" font-family="Arial, Helvetica, sans-serif" font-size="176.4" font-weight="700" fill="rgba(255,255,255,0.92)" text-anchor="middle" dominant-baseline="middle">AM</text>
+</svg>
