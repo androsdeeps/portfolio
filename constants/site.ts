@@ -3,7 +3,7 @@ export const siteConfig = {
   title: "Deepak Ghale | Full Stack Developer",
   description:
     "Full Stack Developer specializing in React, Next.js, Node.js and cloud-native applications. Explore my projects, skills, and experience.",
-  url: "https://alexmorgan.dev",
+  url: "https://deepakghale.com.np",
   ogImage: "/images/og-image.svg",
   keywords: [
     "Full Stack Developer",
